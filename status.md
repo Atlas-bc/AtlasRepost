@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Atlas Collins
 
 #### Your section leader's name
 
-TODO
+Atlas Collins
 
 #### Project title
 
-TODO
+2048 Remake
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I've followed alongside a tutorial on how to remake the 2048 computer game. I've made the small change of using multiples of three in place of two. 
 
 #### What have you not done for your project yet?
 
-TODO
+I need to finish the tutorial, then I want to go back and find out how to add sfx and change the tile colors (change the theme). 
 
 #### What problems, if any, have you encountered?
 
-TODO
+Still having problems on getting pygame to work (idle). Even though I went back and watched the recording for class.
